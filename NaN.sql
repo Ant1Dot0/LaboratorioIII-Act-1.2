@@ -1,3 +1,5 @@
+--Se crea base muchos a muchos con Medicos, Especialidades y MedicosXEspecialidades
+--ya que un medico puede tener muchas especialidades y una especialidad puede ser sabida por muchos medicos 
 CREATE DATABASE NaN
 GO
 USE NaN
